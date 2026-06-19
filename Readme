@@ -1,0 +1,15 @@
+# 📦 Smart Inventory Planning & Decision Support System
+
+## About the Project
+This project is a data-driven inventory management and decision support dashboard built with Python (Streamlit, Pandas, NumPy). Designed to bridge the gap between industrial engineering methodologies and real-world supply chain operations, the system automates complex inventory calculations and provides actionable, real-time insights for decision-makers. By processing historical sales data, it transforms raw numbers into strategic operational plans, optimizing both stock levels and financial performance.
+
+## Core Features & Engineering Methodologies
+* **Statistical Inventory Control:** Dynamically calculates Safety Stock and Reorder Points (ROP) based on demand variance, lead times, and customizable Customer Service Levels (Z-scores).
+* **Corporate ABC Analysis:** Automatically categorizes the product portfolio (Class A, B, C) based on financial volume and Pareto's principle, suggesting optimal control priorities.
+* **Statistical Process Control (SPC):** Integrates demand distribution control charts featuring Upper/Lower Control Limits (UCL/LCL) to detect special-cause demand anomalies and market shifts.
+* **Financial Risk Analysis:** Evaluates hidden supply chain costs by calculating tied-up capital, annual inventory holding costs, and potential stockout risks (lost profit/opportunity cost).
+* **Bilingual & Interactive UI:** Features a fully interactive, bilingual (English/Turkish) web interface allowing users to upload their own CSV datasets, adjust financial parameters, and visualize inventory depletion trends instantly.
+
+## Tech Stack
+* **Language:** Python
+* **Libraries:** Streamlit (UI & Deployment), Pandas (Data Manipulation), NumPy (Statistical Computing)
