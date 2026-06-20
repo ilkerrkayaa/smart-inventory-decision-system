@@ -1,4 +1,4 @@
-# 📦 Smart Inventory Planning & Decision Support System
+#  Smart Inventory Planning & Decision Support System
 
 ## About the Project
 This project is a data-driven inventory management and decision support dashboard built with Python (Streamlit, Pandas, NumPy). Designed to bridge the gap between industrial engineering methodologies and real-world supply chain operations, the system automates complex inventory calculations and provides actionable, real-time insights for decision-makers. By processing historical sales data, it transforms raw numbers into strategic operational plans, optimizing both stock levels and financial performance.
